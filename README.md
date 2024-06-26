@@ -1,2 +1,4 @@
-# Rotaract-Website
- Website made for Rotaract Clu7b of GHRUA
+# Rotaract GHRUA - Website
+ Website made for Rotaract Club of GHRUA
+<br>
+Author : Ridam Satkar
