@@ -29,7 +29,8 @@ a:hover {
 }
 
 .container {
-    width: 100%;
+    width: 99%;
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: center;
