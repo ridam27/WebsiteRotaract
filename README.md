@@ -3,4 +3,4 @@
 <br>
 Author : Ridam Satkar
 <br>
-Watch Live : <a> rotaractghrua.netlify.app </a>
+Watch Live : <a target=_blank > rotaractghrua.netlify.app </a>
