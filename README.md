@@ -3,4 +3,5 @@
 <br>
 Author : Ridam Satkar
 <br>
-Watch Live : <a target=_blank > rotaractghrua.netlify.app </a>
+## Deployment
+The website is deployed on [Netlify](https://rotaractghrua.netlify.app).
